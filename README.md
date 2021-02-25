@@ -1,5 +1,5 @@
 [![Generic badge](https://img.shields.io/badge/github-rsa-blue.svg)](https://github.com/LaGuer/RSA) 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/LaGuer/RSA/blob/master/Python/RSA.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/LaGuer/RSA/HEAD?filepath=blob%2Fmaster%2FPython%2FRSA.ipynb)
 [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/laguer/RSA/blob/master/Python/RSA.ipynb)
 [![nbviewer](https://img.shields.io/badge/view%20on-nbviewer-brightgreen.svg)](https://nbviewer.jupyter.org/github/LaGuer/RSA/blob/master/Python/RSA.ipynb)
 
